@@ -86,23 +86,3 @@ The workflow follows a **clean, modular, and scalable architecture**, suitable f
 
 ---
 
-## ⭐ Key Features
-
-✔ End-to-End ETL Workflow  
-✔ Modular & reusable scripts  
-✔ Clean project structure  
-✔ Industry-standard practices  
-✔ Portfolio-ready data project  
-
----
-
-## 📌 Use Case
-
-This project is ideal for:
-- Data Analyst portfolios  
-- Data Engineering practice  
-- SQL + Python skill demonstration  
-- Real-world ETL workflow showcase  
-
----
-
